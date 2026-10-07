@@ -3,6 +3,14 @@
     <channel>
         <title>رادیو بین‌المللی فرانسه فارسی</title>
         <item>
+            <pubDate>2026-10-07 11:20:07</pubDate>
+            <title>حوثی‌های یمن مدعی حمله موشکی به فرودگاه ریاض شدند</title>
+            <description>شورشیان حوثی‌ با وجود ضدحمله نیروهای دولت یمن با حمایت ریاض، همچنان به حملات خود علیه عربستان ادامه می‌دهند. حوثی‌های یمن، که از حمایت ایران برخوردارند، روز چهارشنبه اعلام کردند فرودگاه ریاض را هدف حمله موشکی قرار داده‌اند. از سوی دیگر، عربستان سعودی اعلام کرده که یک موشک حوثی‌ها را در شمال ریاض رهگیری و منهدم کرده است. حوثی‌های یمن، روز چهارشنبه فرودگاه بین‌المللی عدن را هم با موشک‌های بالستیک و پهپادهای حامل مواد منفجره هدف قرار دادند.</description>
+            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#ed2f0564229a</link>
+            <media:content url="https://raw.githubusercontent.com/ch3fferson/dayereh/main/feeds/view/media/rfi.fr-ed2f0564229a.jpg" medium="image" type="image/jpeg" />
+            <media:thumbnail url="https://raw.githubusercontent.com/ch3fferson/dayereh/main/feeds/view/media/rfi.fr-ed2f0564229a.jpg" />
+        </item>
+        <item>
             <pubDate>2026-10-06 11:14:18</pubDate>
             <title>هشدار آمریکا به مؤسسات مالی خارجی دربارۀ همکاری با ایران</title>
             <description>وزارت خزانه‌داری آمریکا روز دوشنبه هشدار داد که مؤسسات مالی بین‌المللی که با نهادهای مالی ایرانی مشمول تحریم‌های آمریکا همکاری می‌کنند، ممکن است بدون اطلاع قبلی، هدف اقدامات تنبیهی واشنگتن قرار گیرند. این وزارت هم‌زمان از اعمال دور تازه‌ای از تحریم‌ها علیه بخش‌های مالی، رمزارز، راه‌آهن، خودروسازی و صنایع تولیدی ایران خبر داد.</description>
@@ -129,14 +137,6 @@
             <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#cd3690b97d3b</link>
             <media:content url="https://raw.githubusercontent.com/ch3fferson/dayereh/main/feeds/view/media/rfi.fr-cd3690b97d3b.jpg" medium="image" type="image/jpeg" />
             <media:thumbnail url="https://raw.githubusercontent.com/ch3fferson/dayereh/main/feeds/view/media/rfi.fr-cd3690b97d3b.jpg" />
-        </item>
-        <item>
-            <pubDate>2026-10-04 14:35:43</pubDate>
-            <title>اعتراض به بحران مسکن؛ ده‌ها هزار نفر در اسپانیا خواستار اعتصاب عمومی شدند</title>
-            <description>ده‌ها هزار نفر شنبه ۳ اکتبر در مادرید و دیگر شهرهای اسپانیا راهپیمایی کردند تا از حقوق مستأجران حمایت کنند و خواستار اقدام فوری برای مهار بحران مسکن شوند. این تجمع‌ها یک روز پس از رد طرح‌های دولت پدرو سانچز در پارلمان برگزار شد؛ شکستی که نه‌تنها خشم خیابانی را تشدید کرد، بلکه احتمال برگزاری انتخابات زودهنگام را نیز جدی‌تر کرده است.</description>
-            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#f88d32e2e013</link>
-            <media:content url="https://raw.githubusercontent.com/ch3fferson/dayereh/main/feeds/view/media/rfi.fr-f88d32e2e013.jpg" medium="image" type="image/jpeg" />
-            <media:thumbnail url="https://raw.githubusercontent.com/ch3fferson/dayereh/main/feeds/view/media/rfi.fr-f88d32e2e013.jpg" />
         </item>
     </channel>
 </rss>
