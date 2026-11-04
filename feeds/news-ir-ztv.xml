@@ -1,7 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
         <title>ضد تی وی</title>
+        <item>
+            <pubDate>2026-11-04 12:06:24</pubDate>
+            <title>ترامپ در گفتگو با فایننشال تایمز: فعلاً برنامه‌ای برای حمله نظامی به ایران نداریم. رئیس‌جمهور آمریکا...</title>
+            <description>ترامپ در گفتگو با فایننشال تایمز: فعلاً برنامه‌ای برای حمله نظامی به ایران نداریم. رئیس‌جمهور آمریکا موضع خود در قبال رژیم تهران را «عالی» توصیف کرد. تاکید واشینگتن بر تداوم راهبرد فعلی در قبال جمهوری اسلامی.</description>
+            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#292a750f3cb7</link>
+        </item>
+        <item>
+            <pubDate>2026-11-04 11:54:10</pubDate>
+            <title>بهبود موقت کیفیت اینترنت و رفع فیلتر یوتیوب در سراسر کشور. تسهیل دسترسی شهروندان برای مشاهده نتایج ا...</title>
+            <description>بهبود موقت کیفیت اینترنت و رفع فیلتر یوتیوب در سراسر کشور. تسهیل دسترسی شهروندان برای مشاهده نتایج انتخابات آمریکا. نمایش گزینشی محتوای جهانی برای اهداف سیاسی.</description>
+            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#067e2d8eec5c</link>
+        </item>
+        <item>
+            <pubDate>2026-11-04 11:38:01</pubDate>
+            <title>شکست تاریخی مذاکرات هفت‌ماهه با ترامپ و ناکامی دیپلماتیک جمهوری‌خواهان. تداوم بن‌بست سیاسی؛ تلاش بی‌...</title>
+            <description>شکست تاریخی مذاکرات هفت‌ماهه با ترامپ و ناکامی دیپلماتیک جمهوری‌خواهان. تداوم بن‌بست سیاسی؛ تلاش بی‌حاصل رژیم برای جلب میانجی‌گری عاصم منیر.</description>
+            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#5501a4d1852f</link>
+        </item>
+        <item>
+            <pubDate>2026-11-04 11:19:40</pubDate>
+            <title>جمهوری آذربایجان ۱۴ مقام و چهره رژیم ایران را «عنصر نامطلوب» نامید و ورود آن‌ها را ممنوع کرد. نمایند...</title>
+            <description>جمهوری آذربایجان ۱۴ مقام و چهره رژیم ایران را «عنصر نامطلوب» نامید و ورود آن‌ها را ممنوع کرد. نمایندگان مجلس، روحانیون و مدیرمسئول روزنامه کیهان در فهرست سیاه باکو قرار گرفتند. باکو این اقدام را واکنشی به اظهارات علیه حاکمیت و امنیت ملی خود اعلام کرد.</description>
+            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#419ed89a0018</link>
+            <media:content url="https://raw.githubusercontent.com/ch3fferson/dayereh/main/feeds/view/media/ZTVofficial_15577.jpg" medium="image" type="image/jpeg" />
+            <media:thumbnail url="https://raw.githubusercontent.com/ch3fferson/dayereh/main/feeds/view/media/ZTVofficial_15577.jpg" />
+        </item>
+        <item>
+            <pubDate>2026-11-04 08:07:18</pubDate>
+            <title>پیشتازی دموکرات‌ها در انتخابات میان‌دوره‌ای آمریکا؛ احتمال تغییر موازنه قدرت در کنگره. افزایش کرسی‌ه...</title>
+            <description>پیشتازی دموکرات‌ها در انتخابات میان‌دوره‌ای آمریکا؛ احتمال تغییر موازنه قدرت در کنگره. افزایش کرسی‌های دموکرات‌ها در سنا و فرمانداری‌ها بر اساس آمارهای اولیه. تأثیر مستقیم نتایج نهایی بر جهت‌گیری‌های سیاست خارجی دولت ترامپ.</description>
+            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#f835ba9f3291</link>
+        </item>
         <item>
             <pubDate>2026-11-04 02:21:39</pubDate>
             <title>تخلیه پارکینگ بیمارستان‌های بیشتر در اسرائیل و تبدیل به بخش‌های اورژانس. گسترش سریع ظرفیت‌های درمانی...</title>
@@ -91,36 +123,6 @@
             <title>اعزام ۶ فروند هواپیمای ترابری گلوب‌مستر ارتش آمریکا به خاورمیانه؛ انتقال سامانه‌های پدافند هوایی از...</title>
             <description>اعزام ۶ فروند هواپیمای ترابری گلوب‌مستر ارتش آمریکا به خاورمیانه؛ انتقال سامانه‌های پدافند هوایی از پایگاه فورت بلیس تگزاس؛ تشدید آمادگی‌های نظامی ایالات متحده در سطح منطقه.</description>
             <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#9a0f66c9b5df</link>
-        </item>
-        <item>
-            <pubDate>2026-11-03 22:59:41</pubDate>
-            <title>گزارش معاریو از وقوع تغییرات بنیادین در خاورمیانه. تحولات بزرگ ساختار منطقه را دگرگون خواهد کرد.</title>
-            <description>گزارش معاریو از وقوع تغییرات بنیادین در خاورمیانه. تحولات بزرگ ساختار منطقه را دگرگون خواهد کرد.</description>
-            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#873f17c0fcdb</link>
-        </item>
-        <item>
-            <pubDate>2026-11-03 22:59:32</pubDate>
-            <title>موافقت رسمی گرینلند با توافق دولت ترامپ؛ حضور نظامی ایالات متحده در این جزیره گسترش می‌یابد.</title>
-            <description>موافقت رسمی گرینلند با توافق دولت ترامپ؛ حضور نظامی ایالات متحده در این جزیره گسترش می‌یابد.</description>
-            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#d62acf6054a3</link>
-        </item>
-        <item>
-            <pubDate>2026-11-03 22:42:36</pubDate>
-            <title>نیویورک تایمز: گزارش اسرائیل به آمریکا درباره احتمال استفاده رژیم ایران از سلاح‌های شیمیایی. ارائه ش...</title>
-            <description>نیویورک تایمز: گزارش اسرائیل به آمریکا درباره احتمال استفاده رژیم ایران از سلاح‌های شیمیایی. ارائه شواهد امنیتی توسط تل‌آویو به واشینگتن در خصوص تهدیدات تسلیحاتی جدید جمهوری اسلامی.</description>
-            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#556c1f7db51d</link>
-        </item>
-        <item>
-            <pubDate>2026-11-03 22:42:25</pubDate>
-            <title>بحران جدی و قریب‌الوقوع کمبود گاز در سراسر کشور؛ پزشکیان: احتمال قطع برق و گاز مراکز فرهنگی برای جلو...</title>
-            <description>بحران جدی و قریب‌الوقوع کمبود گاز در سراسر کشور؛ پزشکیان: احتمال قطع برق و گاز مراکز فرهنگی برای جلوگیری از توقف تولید؛ تشدید ناتوانی در تأمین انرژی و مدیریت زیرساخت‌های پایه.</description>
-            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#97f5bc4b3707</link>
-        </item>
-        <item>
-            <pubDate>2026-11-03 22:25:43</pubDate>
-            <title>پزشکیان: حتی با ترور هزاران نفر مانند من، دشمن ناتوان خواهد بود. تلاش رئیس‌جمهور برای نمایش پایداری...</title>
-            <description>پزشکیان: حتی با ترور هزاران نفر مانند من، دشمن ناتوان خواهد بود. تلاش رئیس‌جمهور برای نمایش پایداری نظام در سایه تهدیدات و بحران‌های موجود.</description>
-            <link>https://htmlpreview.github.io/?https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/index.html#158714bc2e7e</link>
         </item>
     </channel>
 </rss>
